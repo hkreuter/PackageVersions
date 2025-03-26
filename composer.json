@@ -15,7 +15,7 @@
     },
     "require-dev": {
         "composer/composer":                      "^2.8.6",
-        "doctrine/coding-standard":               "^12.0.0",
+        "doctrine/coding-standard":               "^13.0.0",
         "ext-zip":                                "^1.15.0",
         "roave/infection-static-analysis-plugin": "^1.37.0",
         "phpunit/phpunit":                        "^11.5.15",
